@@ -8,7 +8,7 @@ criei esse repositório para agilizar o processo de comecar um projeto em node d
 
 Esse repositorio tem um servidor em NodeJs com Express inicializado com uma rota /ping
 Além disso o Eslint ja está configurado de acordo com as regras do airbnb :star_struck:
-As configuracões do Eslint foram tiradas [daqui] (https://gist.github.com/Gustavo-Kuze/cd36b0bfa4a6d2f8a6b4cc325608cf03)
+As configuracões do Eslint foram tiradas (daqui) [https://gist.github.com/Gustavo-Kuze/cd36b0bfa4a6d2f8a6b4cc325608cf03]
 
 
 
