@@ -8,6 +8,7 @@ criei esse repositório para agilizar o processo de comecar um projeto em node d
 
 Esse repositorio tem um servidor em NodeJs com Express inicializado com uma rota /ping
 Além disso o Eslint ja está configurado de acordo com as regras do airbnb :star_struck:
+
 Usando o codigo desse repositório voce economiza tempo ao criar projetos do zero
 Fique a vontade para clonar ou fazer forks :blush:
 
@@ -16,7 +17,9 @@ Fique a vontade para clonar ou fazer forks :blush:
 Com esse repositório clonado na sua máquina voce só precisa rodar o comando:
 
 se estiver usando npm:
+
     `npm install`
 
 se tiver usando yarn:
+
     `yarn install`
