@@ -2,7 +2,7 @@
 
 O objetivo desse repositório é facilitar a vida (a minha e de quem mais quiser usar esse repositório)
 Tendo em vista que desenvolvedores tem aquela faminha de preguisoços, no meu ponto de vista gostamos de aproveitar coisas que já estão prontas e funcionais
-criei esse repositório para agilizar o processo de comecar um projeto em node do zero.
+criei esse repositório para agilizar o processo de começar um projeto em node do zero.
 
 # O que tem nesse repositório?
 
